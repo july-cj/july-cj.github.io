@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /jmp
+Disallow: /research/
+Disallow: /papers/
+Disallow: /files/
+
+Sitemap: https://c-yu.page/sitemap.xml
